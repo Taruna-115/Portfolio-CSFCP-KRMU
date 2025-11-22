@@ -14,8 +14,8 @@ header{
 
 /* image styles */
 img{
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
     object-fit: cover;
     border: 3px solid rgb(6, 6, 87);
